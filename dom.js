@@ -81,3 +81,4 @@ form.addEventListener('submit', function(event) {
     console.log('タイトル：', title);
     console.log('本文：', content);
 });
+// 変更
